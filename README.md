@@ -1,0 +1,2 @@
+# LetterProject
+Writing letters with "*"
